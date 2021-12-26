@@ -1,7 +1,6 @@
 # Easy Forensic
 ## Score: 50
-> 악당들의 컴퓨터 비밀번호를 알아내라!
-
+> 악당들의 컴퓨터 비밀번호를 알아내라!  
 > Mlpswrweq{Rijv0_JMbilcma!!}
 ---
 문제에 들어가기 앞서 Flag의 형식을 알아 볼 필요가 있다.
